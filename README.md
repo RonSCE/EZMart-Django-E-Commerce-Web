@@ -1,6 +1,6 @@
 # EzMart - Django Ecommerce Web
 
-
+## The project files are under the 'master' branch.
 
 
 # Requirements:
